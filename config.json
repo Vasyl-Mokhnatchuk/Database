@@ -1,0 +1,10 @@
+{
+    "database": {
+      "user": "avnadmin",
+      "password": "AVNS_WzjrCuvFhibqqOY0roM",
+      "host": "pg-vs1x48-vasyl-v487.b.aivencloud.com",
+      "port": 15464,
+      "databaseName": "defaultdb"
+    }
+  }
+  
