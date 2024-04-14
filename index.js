@@ -6,7 +6,6 @@ const config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 const data = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 const schema = fs.readFileSync('schema.sql', 'utf8');
 
-
 const dbConfig = {
     user: config.database.user,
     password: config.database.password,
